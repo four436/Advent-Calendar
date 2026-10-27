@@ -19,3 +19,8 @@ La rularea programului se deschide o fereastră care contine o pagină de calend
  * se instalează minim versiunea <a href="https://adoptium.net/temurin/releases/?version=21">Java 21</a>
  * **Atenție!!** aplicația ne fiind semnată trebuie oprit **Real-time protection**
  * se deschide aplicația **Dezember-Kalender.exe**
+### Rularea source code-ului:  
+ * **se descarcă** source code-ul sau **se face o clonă** la repositorie  
+ * se adaugă în IDE-ul preferat
+ * se selectează **JDK 21**
+ * se apasă pe butonul de run/build
