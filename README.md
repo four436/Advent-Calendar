@@ -11,4 +11,4 @@ Acest proiect a fost coceput pentru un proiect la germană, in clasa a X-a, anul
     - folosite pentru realizarea interfaței grafice
   * java.io
     - folosit pentru a putea pune ca background un fișier .gif
-
+## Descrierea programului
