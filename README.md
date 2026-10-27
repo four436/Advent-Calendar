@@ -12,7 +12,7 @@ Acest proiect a fost realizat în scop didactic, pentru disciplina limba german�
   * java.io
     - folosit pentru a putea pune ca background un fișier .gif
 ## Descrierea interfeței
-La rularea programului se deschide o fereastră care conține o pagină de calendar pentru luna Decembrie, sub forma de tabel/matrice. Pe prima linie se află zilele săptămânii, iar pe următoarele linii se află zilele corespunzătoare fiecărei date. În josul paginii se află un buton care permite schimbarea limbii în care este scris textul (Română/Germană). Oricare dată a zilei este un buton care te redirecționează la o nouă pagină care afișează un citat spus de o mare personalitate în limba în care este setat programul.  
+La rularea programului se deschide o fereastră care conține o pagină de calendar pentru luna Decembrie, sub forma de tabel/matrice. Pe prima linie se află zilele săptămânii, iar pe următoarele linii se află zilele corespunzătoare fiecărei date. În josul paginii se află un buton care permite schimbarea limbii textului (Română/Germană). Oricare dată a zilei este un buton care te redirecționează la o pagină nouă care afișează un citat spus de o mare personalitate, în limba în care este setat programul.  
 ## Rularea programului:
 ### Rularea ultimei versiuni finale:  
  * se descarcă <a href="https://github.com/four436/Advent-Calendar/releases/tag/release">Latest release</a>
